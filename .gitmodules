@@ -1,0 +1,6 @@
+[submodule "dbbuilder"]
+	path = dbbuilder
+	url = git@github.com:etopiei/dbbuilder.git
+[submodule "openchessbrowser"]
+	path = openchessbrowser
+	url = git@github.com:etopiei/openchessbrowser
