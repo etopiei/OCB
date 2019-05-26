@@ -4,3 +4,6 @@
 [submodule "openchessbrowser"]
 	path = openchessbrowser
 	url = git@github.com:etopiei/openchessbrowser
+[submodule "chessgraphserver"]
+	path = chessgraphserver
+	url = git@github.com:etopiei/chessgraphserver.git
